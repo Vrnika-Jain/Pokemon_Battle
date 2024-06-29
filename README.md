@@ -1,4 +1,4 @@
-#Pokemon Battle Outcome Prediction
+# Pokemon Battle Outcome Prediction
 
 # Introduction
 This project involves predicting the outcomes of Pokemon battles using machine learning techniques. The process includes:
